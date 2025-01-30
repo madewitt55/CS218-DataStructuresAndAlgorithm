@@ -1,3 +1,6 @@
+// Mason DeWitt; mason.dewitt@snhu.edu; ID: 2595261
+// LinkedStack.h: Class definition for a linked list based stack structure
+
 #pragma once
 #include <string>
 

@@ -1,3 +1,6 @@
+// Mason DeWitt; mason.dewitt@snhu.edu; ID: 2595261
+// linked_list_stack.cpp: User interface to view and modify a stack of students
+
 #include <iostream>
 #include "LinkedStack.h"
 using namespace std;

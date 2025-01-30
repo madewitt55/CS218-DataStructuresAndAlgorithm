@@ -1,3 +1,6 @@
+// Mason DeWitt; mason.dewitt@snhu.edu; ID: 2595261
+// LinkedStack.tpp: Template class for LinkedStack
+
 #pragma once
 #include "LinkedStack.h"
 #include <iostream>
